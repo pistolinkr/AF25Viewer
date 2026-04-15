@@ -17,7 +17,7 @@ A modern, interactive web-based viewer for exploring AlphaFold protein structure
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/pistolinkr/Protein2025Bartender.git
+   git clone https://github.com/pistolinkr/AF2025Viewer.git
    cd Protein2025Bartender
    ```
 
