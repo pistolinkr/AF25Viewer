@@ -140,5 +140,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ---
 
-**Repository**: [https://github.com/pistolinkr/Protein2025Bartender](https://github.com/pistolinkr/Protein2025Bartender)
-**Owner**: Pistol™ Gongsaeng™
+**Repository**: [https://github.com/pistolinkr/AF25Viewer](https://github.com/pistolinkr/AF25Viewer)
+**Owner**: Pistol™ Gongsaeng™ G.gear® service delta team
